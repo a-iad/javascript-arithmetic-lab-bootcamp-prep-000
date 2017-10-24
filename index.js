@@ -11,9 +11,6 @@ function divide(a,b) {
   return(a / b)
 }
 function inc(n) {
-  var number = 5
+  var number = 275
   return(number ++)
-}
-function dec(n) {
-  return(n - 1)
 }
