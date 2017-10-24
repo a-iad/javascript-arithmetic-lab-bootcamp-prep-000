@@ -11,6 +11,7 @@ function divide(a,b) {
   return(a / b)
 }
 function inc(n) {
+  var number = 5
   return(n + 1)
 }
 function dec(n) {
